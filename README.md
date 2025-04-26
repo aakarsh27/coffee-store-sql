@@ -1,3 +1,3 @@
 # coffee-store-sql
 
-this repo for my sql pr
+this repo for my sql prac
